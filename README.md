@@ -32,6 +32,12 @@ Linux show (Jupitor)
 
 War Game
 
-overthewire.org  for war games  
+overthewire.org  for war games    Play all the games for learn hacking start from "bandit" game
+
+use putty
+
 
 Creativecommence  for license
+
+
+
