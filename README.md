@@ -25,4 +25,6 @@ inurl:admin site:lk intext:password
 
 webscarab
 burp suite  
-Security.stackexchange.com  - Ask 5 Security Questions
+Security.stackexchange.com  - Ask 5 Security Questions  
+
+Linux show (Jupitor)
