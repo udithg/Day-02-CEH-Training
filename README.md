@@ -16,7 +16,7 @@ upload data
 
 What google hacking options found interesting
 
-Google dork Description: inurl:admin inurl:userlist
-Google search: inurl:admin inurl:userlist
-Submited: 2004-03-16
+Google dork Description: inurl:admin inurl:userlist  
+Google search: inurl:admin inurl:userlist  
+
 This search reveals userlists of administrative importance. Userlists found using this method can range from benign "message group" lists to system userlists containing passwords.
