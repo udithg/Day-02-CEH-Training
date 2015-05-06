@@ -22,3 +22,6 @@ Google search: inurl:admin inurl:userlist
 This search reveals userlists of administrative importance. Userlists found using this method can range from benign "message group" lists to system userlists containing passwords.
 
 inurl:admin site:lk intext:password  
+
+webscarab
+burp suite
